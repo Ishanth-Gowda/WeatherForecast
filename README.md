@@ -2,6 +2,8 @@
 - WeatherForecast is a responsive weather application built using React, CSS, and JavaScript, allowing users to search for any city and view real-time weather data including temperature, condition type, humidity, wind speed, and a 3-day forecast.
 - The design is inspired by Apple Weather with translucent cards and dynamic background images that change based on current weather conditions.
 
+# Live Demo: https://ishanth-gowda.github.io/WeatherForecast/
+
 # Features
 	•	Search weather details for any city worldwide
 	•	Display of current temperature and weather condition
