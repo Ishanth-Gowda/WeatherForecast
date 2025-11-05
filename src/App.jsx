@@ -38,7 +38,7 @@ const App = () => {
                     condition.includes("drizzle")
                 )
                     setBg("rainy");
-                else if (condition.includes("snow")) setBg("snowy");
+                else if (condition.includes("snow") || condition.includes("patchy snow")) setBg("snowy");
                 else if (condition.includes("fog") || condition.includes("mist"))
                     setBg("foggy");
                 else setBg("default-bg");
